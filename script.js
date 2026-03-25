@@ -38,7 +38,7 @@ const paintings = [
         price: 35,
         size: "30x40 cm (encadré) - Peinture sur bois",
         description: "Empruntant les codes géométriques du style Kufic, cette pièce peinte sur bois et présentée dans son cadre offre un contraste chaleureux grâce à son fond nuancé et ocre. Une composition épurée qui ancre spirituellement et esthétiquement votre décoration.",
-        image: "assets/media__1774410682782.jpg"
+        image: "assets/media__1774416662750.jpg"
     }
 ];
 
